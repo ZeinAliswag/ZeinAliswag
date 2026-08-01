@@ -1,6 +1,6 @@
 # Hi, I'm Zein 👋
 
-Aspiring Developer
+I am passionate about becoming a full-stack developer, driven to build systems that are scalable, efficient, and secure from the database up to the interface. I enjoy tackling complex problems, refining system logic, and continuously adapting to new technologies and modern development practices. On the frontend, I focus on translating that same rigor into clean, polished user experiences — balancing functionality and usability so every layer of the system, not just the backend, holds up to the same standard.
 
 ## 🛠️ Tech Stack & Skills
 
