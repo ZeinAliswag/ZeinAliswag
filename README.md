@@ -2,8 +2,6 @@
 
 I am passionate about becoming a full-stack developer, driven to build systems that are scalable, efficient, and secure from the database up to the interface. I enjoy tackling complex problems, refining system logic, and continuously adapting to new technologies and modern development practices. On the frontend, I focus on translating that same rigor into clean, polished user experiences — balancing functionality and usability so every layer of the system, not just the backend, holds up to the same standard.
 
-My current project, **AmuseFlow**, is a theme park attraction reservation system with an ASP.NET Core + Dapper backend and a React + TypeScript frontend, covering role-based booking, scheduling, notifications, and activity logging across Visitor, Admin, and Ride Attendant portals.
-
 ## 🛠️ Tech Stack & Skills
 
 ### Backend
