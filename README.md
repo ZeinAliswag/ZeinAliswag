@@ -7,7 +7,7 @@ Aspiring Developer
 ### Backend
 
 ![.NET](https://img.shields.io/badge/.NET_(C%23)-512BD4?style=flat&logo=dotnet&logoColor=white ".NET / C#")
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat "Microsoft SQL Server")
+![MS SQL Server](https://custom-icon-badges.demolab.com/badge/MS_SQL_Server-CC2927?style=flat&logo=mssqlserver-white&logoColor=white "Microsoft SQL Server")
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white "SQLite")
 ![Dapper ORM](https://img.shields.io/badge/Dapper_ORM-004880?style=flat&logo=nuget&logoColor=white "Dapper ORM")
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat "REST API design")
@@ -35,7 +35,7 @@ Aspiring Developer
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white "GitHub")
-![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat "SQL Server Management Studio")
+![SSMS](https://custom-icon-badges.demolab.com/badge/SQL_Server_Management_Studio-CC2927?style=flat&logo=mssqlserver-white&logoColor=white "SQL Server Management Studio")
 ![DB Browser](https://img.shields.io/badge/DB_Browser-07405E?style=flat&logo=sqlite&logoColor=white "DB Browser for SQLite")
 ![XAMPP](https://img.shields.io/badge/XAMPP_Control_Panel-FB7A24?style=flat&logo=xampp&logoColor=white "XAMPP Control Panel")
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white "Visual Studio")
