@@ -10,7 +10,7 @@ I am passionate about becoming a full-stack developer, driven to build systems t
 ![MS SQL Server](https://custom-icon-badges.demolab.com/badge/MS_SQL_Server-CC2927?style=flat&logo=mssqlserver-white&logoColor=white "Microsoft SQL Server")
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white "SQLite")
 ![Dapper ORM](https://img.shields.io/badge/Dapper_ORM-004880?style=flat&logo=nuget&logoColor=white "Dapper ORM")
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat "REST API design")
+![REST API](https://img.shields.io/badge/REST_API-6BA539?style=flat&logo=openapiinitiative&logoColor=white "REST API design (OpenAPI)")
 ![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white "JWT Authentication")
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white "PHP")
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white "Laravel")
@@ -40,5 +40,6 @@ I am passionate about becoming a full-stack developer, driven to build systems t
 ![XAMPP](https://img.shields.io/badge/XAMPP_Control_Panel-FB7A24?style=flat&logo=xampp&logoColor=white "XAMPP Control Panel")
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white "Visual Studio")
 ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white "Visual Studio Code")
+
 
 
